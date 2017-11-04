@@ -1,5 +1,5 @@
 # ghost-md-imgur
-## Upgrades imgur images to embeds.
+**Upgrades imgur images to embeds.**
 
 Works in posts and pages.
 
@@ -20,3 +20,6 @@ include "ghost-hbs-imgur". I.E. `["ghost-md-imgur","other-app"...]`
 3. Restart Ghost.
 
 **Note:** active_apps might be listed as activeApps depending on your version.
+
+## References
+https://github.com/TryGhost/Ghost/wiki/Apps-Getting-Started-for-Ghost-Devs
