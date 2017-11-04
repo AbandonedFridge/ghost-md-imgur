@@ -4,7 +4,8 @@
 Works in posts and pages.
 
 ## Usage
-Use a standard markdown image tag with the alt set to 'imgur'.
+Use a standard markdown image tag with the alt set to 'imgur' and the URI set to
+a standard imgur path.
 
 **Example**
 ```
