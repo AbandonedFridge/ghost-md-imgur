@@ -1,0 +1,13 @@
+{
+  "name": "ghost-md-imgur",
+  "version": "0.0.1",
+  "decription": "Upgrade imgur images to embeds in Ghost posts.",
+  "dependencies": {
+    "ghost-app": "0.0.2"
+  },
+  "ghost": {
+    "permissions": {
+      "filters": ["prePostsRender"]
+    }
+  }
+}
