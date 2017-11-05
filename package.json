@@ -2,6 +2,11 @@
   "name": "ghost-md-imgur",
   "version": "0.0.1",
   "decription": "Upgrade imgur images to embeds in Ghost posts.",
+  "licence": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unfairSurprisery/ghost-md-imgur.git"
+  },
   "dependencies": {
     "ghost-app": "0.0.2"
   },
